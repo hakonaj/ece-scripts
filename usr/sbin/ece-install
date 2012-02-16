@@ -21,8 +21,8 @@ ece_user=escenic
 ece_group=escenic
 jdbc_driver=/usr/share/java/mysql.jar
 debug=0
-tomcat_download=http://apache.stu.edu.tw/tomcat/tomcat-6/v6.0.33/bin/apache-tomcat-6.0.33.tar.gz
-
+#tomcat_download=http://apache.stu.edu.tw/tomcat/tomcat-6/v6.0.33/bin/apache-tomcat-6.0.33.tar.gz
+tomcat_download=http://apache.uib.no/tomcat/tomcat-6/v6.0.35/bin/apache-tomcat-6.0.35.tar.gz
 # The script will install the sun-java6-jdk package on Debian based
 # systems and this is the path of the JAVA home with this package. If
 # you're using a different system or have other preferences, change
